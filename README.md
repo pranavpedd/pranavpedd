@@ -1,5 +1,5 @@
 # hey i'm pranav!
-### I'm a junior studying CS + Math at the University of Maryland, College Park.
+### I'm a senior studying Computer Science and Statistics at the University of Maryland, College Park.
 ### Reach out!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavpedd/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/pranavpedd)
