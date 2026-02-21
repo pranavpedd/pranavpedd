@@ -1,4 +1,4 @@
-# Hey I'm Pranav!
+# hey I'm pranav!
 ### I have a Computer Science degree from the University of Maryland, College Park and I am pursuing my M.S.E in Data Science at the University of Pennsylvania while also working as a Data Engineer at Fannie Mae!
 ### Reach out!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavpedd/)
